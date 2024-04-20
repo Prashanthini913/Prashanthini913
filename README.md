@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prashanthini913
 - 👀 I’m interested in App and Web Dev
-- 🌱 I’m currently studying BE CSE [3rd year]
+- 🌱 I’m currently studying BE CSE [Final year]
 - 💞️ I’m looking to collaborate on any Dev projects, AI&ML projects
 - 📫 How to reach me ... prashanthinikk@gmail.com
 
