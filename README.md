@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @Prashanthini913
-- 👀 I’m interested in App and Web Dev
-- 🌱 I’m currently studying BE CSE [Final year]
-- 💞️ I’m looking to collaborate on any Dev projects, AI&ML projects
-- 📫 How to reach me ... prashanthinikk@gmail.com
+# Hi, I'm Prashanthini 👋
 
-<!---
-Prashanthini913/Prashanthini913 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Salesforce Developer
+
+I’m a Salesforce Developer passionate about building intelligent,
+scalable CRM solutions.
+
+Currently working with:
+
+- ⚡ Salesforce Development
+- ☁️ Apex, LWC, Aura & Flows
+- 🤖 Agentforce
+- 🔌 REST APIs & Integrations
+- 🚀 CI/CD & Salesforce DX
+
+## 🛠️ Tech Stack
+
+### Salesforce
+Apex • LWC • Aura • Flow • Agentforce • Data Cloud
+
+### DevOps
+GitHub • Azure DevOps • CI/CD
+
+---
